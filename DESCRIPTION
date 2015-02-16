@@ -1,0 +1,23 @@
+Type: Package
+Package: biomonCore
+Date: 2015-02-16
+Version: 1.3.50
+Title: Controller Layer for Biomon App Data Analysis
+Author: Rodrigo Buhler
+Maintainer: Rodrigo Buhler <rodrigo.buhler@ymail.com>
+Description: Biomon app is a software for data analysis automation in Biomonitoring. 
+            The implementation is split in three packages taking into account the 
+            development model Models-Views-Controllers. Each of these layers supported 
+            by a different package: The package Analyz concerns the Models layer of Biomon app; 
+            BiomonCore concerns the Controllers layer and Biomon concerns the Views 
+            layer. BiomonCore delivers two classes, the class Global prepares the global 
+            environment for Biomon app execution and the class Action that delivers 
+            methods to deal with the user's requests from the interface, the View layer, and 
+            forward them to the methods defined in the Model layer.
+License: GPL (>= 2)
+Depends: R (>= 2.15.1)
+Imports: methods, analyz
+Packaged: 2015-02-22 14:15:05 UTC; rodrigobuhler
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2015-02-23 19:09:36

@@ -1,0 +1,11 @@
+944925431c534680faadb95e9cca8587 *DESCRIPTION
+ece712f42471d70dc176d1359b2bd74a *NAMESPACE
+88b86f266ccd8f1b88359f47c3293cba *R/ClassAction.R
+68315012749325208d7ffb195064c50c *R/ClassGlobal.R
+bc7f42b8ee3835d6823f1b5e9e181761 *R/Sample_Analysis.R
+880bbe3e8cc53c57aad99547d4a62882 *man/Action-class.Rd
+cc58fcffb0d1fc4b167aab6e2b99a161 *man/Action.btnExecute-methods.Rd
+61e76513be841b19c9673c41209118b8 *man/Action.btnExecuteEcho-methods.Rd
+b0dc1667b18d50db367254c0a5fe0576 *man/Global-class.Rd
+71e649a6f88288d1cc629c51552b7479 *man/Global.getAnalysis-methods.Rd
+ac659767682fef87e7144360c41451ae *man/Global.getMatrices-methods.Rd
